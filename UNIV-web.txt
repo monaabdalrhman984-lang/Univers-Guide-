@@ -1,0 +1,15 @@
+University of Khartoum,https://www.uofk.edu
+Sudan University of Science and Technology,https://www.sustech.edu
+University of Gezira,https://www.uofg.edu.sd
+Omdurman Islamic University,https://www.oiu.edu.sd
+Al Neelain University,https://www.neelain.edu.sd
+Bahri University,https://www.bu.edu.sd
+Red Sea University,https://www.rsu.edu.sd
+University of El-Obeid,https://www.uo.edu.sd
+Nile Valley University,https://www.nilevalley.edu.sd
+University of Shendi,https://www.ush.sd
+Blue Nile University,https://www.bnu.edu.sd
+Sinnar University,https://www.uofs.edu.sd
+University of Dongola,https://www.uofd.edu.sd
+University of Zalingei,https://www.uoz.edu.sd
+University of Kordofan,https://www.kordofan.edu.sd
